@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/sample/static/css/main.d8d9dd0c.css",
+    "main.js": "/sample/static/js/main.c4050de9.js",
+    "static/js/453.65ba301d.chunk.js": "/sample/static/js/453.65ba301d.chunk.js",
+    "static/media/UNIT-3.pdf": "/sample/static/media/UNIT-3.0f14651ad914c35f84a5.pdf",
+    "static/media/Unit-5.pdf": "/sample/static/media/Unit-5.119561ad779280ce6baf.pdf",
+    "static/media/Unit-3.pdf": "/sample/static/media/Unit-3.eca7934e5e9afa32be80.pdf",
+    "static/media/UNIT-4.pdf": "/sample/static/media/UNIT-4.e6e82b61b7b4801d9dee.pdf",
+    "static/media/UNIT-6.pdf": "/sample/static/media/UNIT-6.a2befcccf7c7fdf11d18.pdf",
+    "static/media/UNIT-2.pdf": "/sample/static/media/UNIT-2.8ffee377fc0b587f79a0.pdf",
+    "static/media/Unit-2.pdf": "/sample/static/media/Unit-2.2805c3fa43d557901e48.pdf",
+    "static/media/Unit-1.pdf": "/sample/static/media/Unit-1.aa76a1ec06091402ab9d.pdf",
+    "static/media/Unit-4.pdf": "/sample/static/media/Unit-4.48f9440c91ff0f2c43de.pdf",
+    "static/media/UNIT-5.pdf": "/sample/static/media/UNIT-5.0ab7ff8c95c43e12939e.pdf",
+    "static/media/UNIT-1.pdf": "/sample/static/media/UNIT-1.fd26f905e48bc4c3b946.pdf",
+    "static/media/411.pdf": "/sample/static/media/411.c67578ad39f8cb1832b8.pdf",
+    "static/media/logo.jpg": "/sample/static/media/logo.5846b82e70ca774b715e.jpg",
+    "index.html": "/sample/index.html",
+    "main.d8d9dd0c.css.map": "/sample/static/css/main.d8d9dd0c.css.map",
+    "main.c4050de9.js.map": "/sample/static/js/main.c4050de9.js.map",
+    "453.65ba301d.chunk.js.map": "/sample/static/js/453.65ba301d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d8d9dd0c.css",
+    "static/js/main.c4050de9.js"
+  ]
+}
